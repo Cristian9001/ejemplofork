@@ -14,6 +14,7 @@ public class Arrays {
 	public static void main(String args) {
 		int notas[]= {2,5,7,6,9};
 		mostrar(notas,5);
+		System.out.println("hola");
 	}
 	
 	public static void mostrar1(int n[]) {
